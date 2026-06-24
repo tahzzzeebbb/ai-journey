@@ -8,7 +8,7 @@ def format_message(role, content):
 
 # Test it with: format_message("user", "Hello there")
 # format_message("assistant", "Hi! How can I help?")
-print(format_message(user, "Hello there"))
+print(format_message(user, "Hello there")) 
 print(format_message(assistant, "Hi! How can I help?"))
 
 # Exercise 2 — Conversation History
