@@ -41,7 +41,7 @@ Person = {
 print(Person["name"])
 print(Person["age"])
 print(Person["skills"][0])
-print["city"]="Lahore" # add new key
+Person["city"] = "Lahore"# add new key
 print(Person)
 
 # Python class vs Java class
